@@ -1,14 +1,16 @@
-# sleepoutside
 
-https://splendid-bunny-b57883.netlify.app/
+Purpose - Beuty Salon Website
 
-## Description
+Audience -  Customers desiring beauty salon services
 
-Use this as a starting point to complete the WDD 330 team activity: the SleepOutside web application. It scaffolds out a simple web app with Vite support to bundle up our assets.
+Data sources
 
-## Prerequisites
+External API - Google calendar for appointment scheduler
+Local JSON file - Newsletter form to receive coupons and updates
+Each view of your application - Home page w/ reviews & contact info, Newsletter sign up page,  Services, page, Appointments page.
 
-- You must have Node installed. visit https://byui-cit.github.io/advcss/lesson01/l01-software.html and skip to the Node section for instructions
+Colors/Typography/specific Element styling - Girly, pink, light teal
+
 
 ## Setup
 
